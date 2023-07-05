@@ -1,5 +1,5 @@
 import React from "react";
-import "./Footer Page.css";
+import "./Footer-Page.css";
 import { BsChevronRight } from 'react-icons/bs';
 import { BsFillTelephoneFill } from "react-icons/bs";
 import { BsFillChatSquareTextFill  } from "react-icons/bs";
